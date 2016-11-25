@@ -37,7 +37,7 @@ Igényes megoldásokkal, szép kinézet készítésével, egyéb fel nem sorolt,
 A saját README fájlodban írj rövid, 2-3 mondatos bemutatót az alkalmazásodhoz. Sorold fel mely feladatokat oldottad meg. Írd le mely feladatokat nem tudtad megoldani és miért. Írd bele a képernyőfelvétel urlt ha nem a repoba tetted fel. Egyéb saját ötlet alapján elkészített funkciók leírása. Írd bele milyen érdemjegyet vársz a beadandódra.
 
 ## Határidő
-2016.12.15.
+2016.12.18.
 
 [1]: https://guides.github.com/features/mastering-markdown
 [2]: https://developer.android.com/training/basics/supporting-devices/languages.html
